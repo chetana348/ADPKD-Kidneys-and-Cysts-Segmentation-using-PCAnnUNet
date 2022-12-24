@@ -1,0 +1,2 @@
+This method feed in kidney labels first followed by cyst labels as 2 channel input
+Pros: Combined kidney and cyst prediction, cysts outside kidneys are ignored
