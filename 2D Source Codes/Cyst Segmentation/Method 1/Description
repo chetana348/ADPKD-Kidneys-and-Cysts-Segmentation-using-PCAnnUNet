@@ -1,0 +1,4 @@
+This method feeds in the cyst labels directly
+Hence cysts outside the kideny regions are also tracked 
+Pros: This method is helpful is total cyst volume is calculated
+Cons: Cysts in liver are also segmented 
